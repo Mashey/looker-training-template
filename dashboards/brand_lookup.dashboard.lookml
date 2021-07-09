@@ -1,7 +1,8 @@
 - dashboard: brand_lookup
-  title: Brand Lookup
+  title: elizabeth-Brand Lookup
   description: 'Drill down dashboard linked on brand name, showing an overview of orders and web traffic for the filtered brand'
   layout: newspaper
+  preferred_viewer: dashboards-next
   query_timezone: user_timezone
   embed_style:
     background_color: "#f6f8fa"

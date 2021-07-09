@@ -1,6 +1,7 @@
 - dashboard: web_analytics_overview
-  title: Web Analytics
+  title: elizabeth-Web Analytics
   layout: newspaper
+  preferred_viewer: dashboards-next
   query_timezone: user_timezone
   description: 'Gives an overview of web analytics for a Ecommerce clothing store - metrics like views and conversion rates'
   embed_style:

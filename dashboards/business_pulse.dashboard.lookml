@@ -1,6 +1,7 @@
 - dashboard: business_pulse
-  title: Business Pulse
+  title: elizabeth-Business Pulse
   layout: newspaper
+  preferred_viewer: dashboards-next
   description: 'Our go-to dashboard for everything ecommerce related - shows metrics like sales price, orders, and information about uses'
   query_timezone: user_timezone
   embed_style:

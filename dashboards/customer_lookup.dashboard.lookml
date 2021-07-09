@@ -1,6 +1,7 @@
 - dashboard: customer_lookup
-  title: Customer Lookup
+  title: elizabeth-Customer Lookup
   layout: newspaper
+  preferred_viewer: dashboards-next
   description: 'Drill dashboard, linked on customer email, which shows ecommerce behavior for a given user '
   embed_style:
     background_color: "#f6f8fa"
